@@ -1,4 +1,4 @@
-# Open-Sesame
+# Open Sesame
 iOS app to unlock a door for me using Bluetooth beacons.
 
 This is a little Swift app I wrote back in 2015 that interfaces with our automated door lock system to unlock a door when I get nearby.
